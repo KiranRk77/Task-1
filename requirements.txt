@@ -1,0 +1,5 @@
+aiosqlite==0.18.0
+SQLAlchemy==1.4.47
+uvicorn==0.21.1
+fastapi==0.95.0
+databases==0.7.0
